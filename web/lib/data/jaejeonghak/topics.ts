@@ -26,7 +26,7 @@ export const jaejeonghakTopics: Topic[] = [
     section: `시장구조`,
     keywords: ["독점", "가격차별", "MR=MC", "자중손실", "독점규제", "내쉬균형"],
     coreText: `독점: MR=MC로 이윤극대화, P>MC→비효율(DWL). 1급가격차별(완전): 소비자잉여 전부 흡수, DWL=0.`,
-    examTypes: ["개념형", "계산형", "그래프형"],
+    examTypes: ["계산형", "그래프형"],
     examPattern: `5년간 2문제 출제. 완전경쟁, 독점, 과점, 게임이론`,
     detailedContent: `【독점 분석】
 MR=P(1-1/|Ed|)=MC

@@ -1,0 +1,3228 @@
+{
+  "file name" : "2022_재정학.pdf",
+  "number of pages" : 11,
+  "author" : null,
+  "title" : null,
+  "creation date" : null,
+  "modification date" : null,
+  "kids" : [ {
+    "type" : "text block",
+    "id" : 70,
+    "page number" : 1,
+    "bounding box" : [ 203.65, 758.89, 388.111, 794.491 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 1,
+      "level" : "Doctitle",
+      "page number" : 1,
+      "bounding box" : [ 255.941, 767.083, 335.938, 787.101 ],
+      "heading level" : 1,
+      "font" : "Batang",
+      "font size" : 20.018,
+      "text color" : "[0.0]",
+      "content" : "재 정 학"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 71,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 52.771, 226.432, 545.896, 732.399 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 74,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 52.771, 717.415, 335.95, 732.399 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "1. 부가가치세에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 23,
+        "level" : "2",
+        "page number" : 1,
+        "bounding box" : [ 51.332, 599.224, 350.858, 708.185 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 693.801, 344.861, 708.185 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 단일세율의 부가가치세는 조세부담이 역진적이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 670.187, 272.9, 684.571 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 각 거래단계의 부가가치에 과세된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 646.572, 326.871, 660.957 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 우리나라는 수출품에 영세율을 적용하고 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 622.958, 290.89, 637.343 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 우리나라는 매입세액공제방식을 따른다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 599.224, 350.858, 613.609 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 우리나라는 총소득형 부가가치세를 채택하고 있다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 52.771, 537.132, 545.896, 571.415 ],
+      "font" : null,
+      "font size" : 12.635,
+      "text color" : "[0.0]",
+      "content" : "2. 세수함수       에 관한 설명으로 옳은 것만을 고른 것은? (단, : 세금, 소득   이다.)",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 24,
+        "page number" : 1,
+        "bounding box" : [ 75.739, 476.299, 543.548, 528.083 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "level" : "1",
+          "page number" : 1,
+          "bounding box" : [ 81.076, 505.127, 503.967, 519.511 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄱ. 소득 증가 시 평균세율 증가 ㄴ. 소득크기에 관계없이 한계세율 일정"
+        }, {
+          "type" : "paragraph",
+          "id" : 3,
+          "level" : "1",
+          "page number" : 1,
+          "bounding box" : [ 81.076, 485.948, 420.732, 500.332 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄷ. 세수탄력성 < 1 ㄹ. 한계세율 < 평균세율"
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 25,
+        "level" : "3",
+        "page number" : 1,
+        "bounding box" : [ 51.332, 449.388, 531.432, 463.772 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄷ, ㄹ ④ ㄱ, ㄷ, ㄹ ⑤ ㄴ, ㄷ, ㄹ"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 52.771, 406.595, 404.913, 421.578 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "3. 개인소득세의 감면제도에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 26,
+        "level" : "2",
+        "page number" : 1,
+        "bounding box" : [ 51.332, 269.225, 546.784, 397.365 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 382.981, 546.712, 397.365 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 감면 총규모가 일정할 때, 소득공제를 세액공제로 변경하면 수직적 공평성은 악화된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 340.187, 546.784, 373.751 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 누진세율 구조에서 소득공제의 실제 조세감면 효과는 대상자의 소득이 클수록 크게 나타난다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 316.573, 506.773, 330.957 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 어떤 재화 구입비의 소득공제는 해당 재화의 상대가격 변화를 가져올 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 292.959, 326.871, 307.343 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 우리나라의 경우 교육비는 세액공제 대상이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 51.332, 269.225, 308.881, 283.609 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 세액공제의 결정액은 한계세율과 관계없다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 52.771, 226.432, 455.285, 241.415 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "4. 지방재정조정제도인 보조금제도에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 72,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 51.332, 69.883, 546.664, 217.202 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.332, 202.817, 494.78, 217.202 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 무조건부 보조금은 사적재와 공공서비스간 선택에서 소득효과를 발생시킨다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.332, 160.024, 546.664, 193.588 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 대응보조금은 사적재와 공공서비스 선택에서 대체효과를 발생시키기 때문에 비효율성을 유발한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.332, 117.231, 546.664, 150.794 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 대응보조금은 사적재와 공공서비스 선택에서 소득효과와 대체효과로 인해 공공서비스 소비량의 변화를 알 수 없다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.332, 93.617, 434.812, 108.001 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 보조금으로 끈끈이 효과가 나타나면 지방정부의 지출이 늘어난다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.332, 69.883, 530.76, 84.267 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 비대응보조금은 지역 주민의 사적재 소비를 늘리는 방향으로 영향을 미칠 수 있다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 73,
+    "page number" : 1,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 12,
+      "page number" : 1,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 1 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 74,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 52.771, 300.151, 473.276, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 71,
+    "next list id" : 78,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.771, 783.103, 310.764, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "5. 법인세에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 27,
+        "level" : "2",
+        "page number" : 2,
+        "bounding box" : [ 51.332, 665.032, 536.757, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 759.489, 242.916, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 법인소득을 과세대상으로 한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 735.875, 434.812, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 선입선출법에 따르면 인플레이션은 법인세 부담에 영향을 미친다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 712.261, 476.79, 726.645 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 우리나라에서는 기업의 부채비중을 높이는 것이 법인세 절감에 유리하다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 688.647, 368.848, 703.031 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 자본재 구입에 가속상각을 도입하면 투자에 불리하다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 665.032, 536.757, 679.417 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 법인세 과세로 인해 상품가격이 인상된다면 소비자에게도 세 부담이 전가된 것이다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.771, 622.119, 379.726, 637.103 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "6. 인플레이션의 영향에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 28,
+        "level" : "2",
+        "page number" : 2,
+        "bounding box" : [ 51.332, 504.048, 500.777, 612.889 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 598.505, 320.874, 612.889 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 누진소득세에서 실질 조세부담을 증가시킨다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 574.891, 266.903, 589.275 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 국가채무의 실질가치를 감소시킨다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 551.277, 368.848, 565.661 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 기업 차입금의 실질가치를 떨어뜨려 기업에 유리하다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 527.662, 428.816, 542.047 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 선형누진 소득세에서는 실질적인 조세부담을 증가시키지 않는다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 504.048, 500.777, 518.433 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 감가상각의 실질가치를 떨어뜨림으로써 법인세의 실질적 부담을 커지게 한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.771, 461.135, 404.913, 476.119 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "7. 근로소득세의 초과부담을 커지게 하는 경우가 아닌 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 29,
+        "level" : "2",
+        "page number" : 2,
+        "bounding box" : [ 51.332, 343.064, 305.954, 451.905 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 437.521, 239.99, 451.905 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 근로소득세율이 높아지는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 413.907, 204.009, 428.291 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 임금률이 높아지는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 390.293, 204.009, 404.677 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 임금총액이 커지는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 366.678, 293.961, 381.063 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 노동수요곡선의 탄력성이 작아지는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 51.332, 343.064, 305.954, 357.448 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 보상노동공급곡선의 탄력성이 커지는 경우",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.771, 300.151, 473.276, 315.135 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "8. 재정적자의 경제적 효과에 관한 설명으로 옳은 것을 모두 고른 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 75,
+    "page number" : 2,
+    "bounding box" : [ 75.739, 152.293, 543.548, 290.982 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 1,
+      "level" : "1",
+      "page number" : 2,
+      "bounding box" : [ 81.076, 272.581, 529.201, 286.965 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "ㄱ. 통화주의학파: 경제 불황기에는 호황기에 비해 구축효과가 크게 나타난다."
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "level" : "1",
+      "page number" : 2,
+      "bounding box" : [ 81.076, 253.402, 537.669, 267.786 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "ㄴ. 케인즈학파: 국채발행을 통해 재정적자를 충당하면 승수효과만큼 총수요"
+    }, {
+      "type" : "paragraph",
+      "id" : 3,
+      "page number" : 2,
+      "bounding box" : [ 105.183, 234.223, 202.258, 248.607 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "증가를 가져온다."
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "level" : "1",
+      "page number" : 2,
+      "bounding box" : [ 81.076, 215.044, 537.669, 229.428 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "ㄷ. 리카르도(D. Ricardo)의 대등정리: 재정적자를 국채로 충당할 때 총수요에"
+    }, {
+      "type" : "paragraph",
+      "id" : 5,
+      "page number" : 2,
+      "bounding box" : [ 103.984, 195.865, 276.018, 210.249 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "아무런 영향을 끼치지 않는다."
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "level" : "1",
+      "page number" : 2,
+      "bounding box" : [ 81.076, 176.686, 454.722, 191.07 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "ㄹ. 러너(A. Lerner): 내부채무는 미래세대의 부담을 증가시킨다."
+    }, {
+      "type" : "paragraph",
+      "id" : 7,
+      "level" : "1",
+      "page number" : 2,
+      "bounding box" : [ 81.076, 157.507, 527.434, 171.891 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "ㅁ. 배로(R. Barro): 적자재정이 국민저축과 투자에 전혀 영향을 미치지 않는다."
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 51.332, 125.382, 530.952, 139.766 ],
+    "font" : "Batang",
+    "font size" : 11.987,
+    "text color" : "[0.0]",
+    "content" : "① ㄱ, ㄴ, ㄷ ② ㄱ, ㄴ, ㄹ ③ ㄴ, ㄷ, ㄹ ④ ㄴ, ㄷ, ㅁ ⑤ ㄷ, ㄹ, ㅁ"
+  }, {
+    "type" : "footer",
+    "id" : 77,
+    "page number" : 2,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 13,
+      "page number" : 2,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 2 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 78,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 49.413, 384.419, 545.824, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 74,
+    "next list id" : 85,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 52.771, 783.103, 279.58, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "9. 공평과세에 관한 설명이 아닌 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 30,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 51.332, 665.032, 476.79, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 759.489, 410.825, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 대기를 오염시키는 플라스틱 생산에 환경세를 부과해야 한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 735.875, 332.868, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 고소득자일수록 더 많은 조세를 부담해야 한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 712.261, 440.809, 726.645 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 부양가족이 많으면 부담능력이 적으니 조세를 적게 부담해야 한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 688.647, 422.819, 703.031 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 주행거리에 비례한 자동차세 부과는 편익원칙에 입각한 것이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 665.032, 476.79, 679.417 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 인근 공원 때문에 주택가격이 올랐다면 재산세를 더 많이 부담해야 한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 49.413, 602.94, 545.824, 637.103 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "10. 알링햄-샌드모(M. Allingham & A. Sandmo)의 탈세모형에 관한 설명으로 옳은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 31,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 51.332, 446.511, 546.784, 593.71 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 579.326, 452.803, 593.71 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 세율 인상에 따른 대체효과는 탈루소득을 줄이는 방향으로 작용한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 536.533, 546.784, 570.096 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 절대위험기피도가 체감하는 개인은 세율이 오르면 소득효과로 탈루소득의 크기를 줄 인다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 512.919, 392.835, 527.303 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 탈세로 인한 심리적 비용이 클수록 탈세 규모는 감소한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 489.304, 446.806, 503.689 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 절세행위는 불법성을 특징으로 한다는 점에서 조세회피와 구별된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 51.332, 446.511, 546.664, 480.074 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 탈세의 편익은 세율로 표현될 수 있으며, 감사받을 확률의 증가나 벌금률의 증가가 탈루소득을 분명하게 늘린다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 49.413, 384.419, 545.824, 418.582 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "11. 한계세율이 소득액 5000만원까지는 10 %, 5000만원 초과금액에 대해서는 30 %일 때, 두 부부의 소득과 소득세액은 아래와 같다. (단, 소득공제는 없다.)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 79,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 74.3, 259.935, 542.948, 376.688 ],
+    "number of rows" : 4,
+    "number of columns" : 5,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 74.69, 334.524, 176.065, 376.418 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 3,
+          "bounding box" : [ 112.739, 348.938, 137.326, 363.322 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "부부"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 176.065, 334.524, 263.498, 376.418 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 6,
+          "page number" : 3,
+          "bounding box" : [ 194.655, 348.938, 244.428, 363.322 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "개인소득"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 263.498, 355.441, 542.588, 376.418 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 8,
+          "page number" : 3,
+          "bounding box" : [ 343.494, 359.366, 462.229, 373.751 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "과세단위별 소득세액"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 263.498, 334.524, 403.103, 355.441 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 3,
+          "bounding box" : [ 308.113, 338.509, 357.886, 352.893 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "개인기준"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 403.103, 334.524, 542.588, 355.441 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 13,
+          "page number" : 3,
+          "bounding box" : [ 447.717, 338.509, 497.49, 352.893 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "가족기준"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 74.69, 297.395, 109.741, 334.524 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 15,
+          "page number" : 3,
+          "bounding box" : [ 87.073, 309.381, 96.596, 323.765 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "A"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 109.741, 297.395, 176.065, 334.524 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 16,
+          "page number" : 3,
+          "bounding box" : [ 124.013, 299.791, 161.193, 333.355 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "유○○ 이○○"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 176.065, 297.395, 263.498, 334.524 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 17,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 198.852, 299.791, 240.11, 333.355 ],
+          "numbering style" : "arabic numbers",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 198.852, 318.971, 240.11, 333.355 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "0.5억원",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 198.852, 299.791, 240.11, 314.176 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "1.5억원",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 263.498, 297.395, 403.103, 334.524 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 18,
+          "page number" : 3,
+          "bounding box" : [ 307.513, 299.791, 358.486, 333.355 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "500만원 3500만원"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 403.103, 297.395, 542.588, 334.524 ],
+        "row number" : 3,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 19,
+          "page number" : 3,
+          "bounding box" : [ 447.118, 309.381, 498.09, 323.765 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "5000만원"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 74.69, 260.205, 109.741, 297.395 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 3,
+          "bounding box" : [ 87.672, 272.222, 96.116, 286.606 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "B"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 109.741, 260.205, 176.065, 297.395 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 3,
+          "bounding box" : [ 124.013, 262.632, 161.193, 296.195 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "박○○ 전○○"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 176.065, 260.205, 263.498, 297.395 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 22,
+          "page number" : 3,
+          "bounding box" : [ 203.89, 262.632, 235.073, 296.195 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "1억원 1억원"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 263.498, 260.205, 403.103, 297.395 ],
+        "row number" : 4,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 23,
+          "page number" : 3,
+          "bounding box" : [ 307.513, 262.632, 358.486, 296.195 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "2000만원 2000만원"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 403.103, 260.205, 542.588, 297.395 ],
+        "row number" : 4,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 24,
+          "page number" : 3,
+          "bounding box" : [ 447.118, 272.222, 498.09, 286.606 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "5000만원"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 80,
+    "page number" : 3,
+    "bounding box" : [ 73.16, 219.839, 545.824, 253.402 ],
+    "linked content id" : 79,
+    "font" : null,
+    "font size" : 11.987,
+    "text color" : "[0.0]",
+    "content" : "다른 조건이 일정할 때, 두 부부의 과세방식을 개인기준에서 가족기준으로 변경할 경우의 결과로 옳은 것은?"
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 51.332, 196.225, 466.907, 210.609 ],
+    "font" : null,
+    "font size" : 11.987,
+    "text color" : "[0.0]",
+    "content" : "① A부부 - 결혼중립성 충족 ② B부부 - 결혼중립성 충족"
+  }, {
+    "type" : "list",
+    "id" : 82,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 51.332, 172.491, 496.891, 186.875 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 52,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 51.332, 172.491, 496.891, 186.875 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ A부부 - 수평적 공평성 미충족 ④ B부부 - 수평적 공평성 미충족",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 51.332, 148.876, 232.434, 163.261 ],
+    "font" : null,
+    "font size" : 11.987,
+    "text color" : "[0.0]",
+    "content" : "⑤ A부부 - 수평적 공평성 충족"
+  }, {
+    "type" : "footer",
+    "id" : 84,
+    "page number" : 3,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 14,
+      "page number" : 3,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 3 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 85,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 49.413, 204.975, 545.824, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 78,
+    "next list id" : 88,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 49.413, 783.103, 341.947, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "12. 누진세에 관한 찬반 의견으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 32,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 51.332, 645.853, 546.664, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 759.489, 542.274, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 조세제도를 복잡하게 만들어 탈세할 수 있는 구멍(loophole)을 제공할 수 있다고 반대한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 735.875, 356.855, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 경제의 활력을 떨어뜨리는 원인이 된다고 반대한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 693.082, 546.664, 726.645 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 능력원칙에 따라 경제적 능력이 큰 사람일수록 정부서비스 혜택을 많이 받기 때문에 찬성한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 669.467, 482.786, 683.852 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 사람들은 자신들의 미래가 불확실한 상황에서는 누진세를 찬성할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 645.853, 514.449, 660.238 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 밀(J. S. Mill)의 동등희생의 원칙에는 누진세를 찬성하는 논리가 제시되어 있다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 49.413, 602.94, 323.357, 617.924 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "13. 조세지출에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 33,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 51.332, 484.869, 488.783, 593.71 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 579.326, 470.793, 593.71 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 조세지출예산제도는 조세지출의 남발을 억제하기 위해 도입된 제도이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 555.712, 332.868, 570.096 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 법인세 특별감가상각제도는 조세지출의 예이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 532.098, 392.835, 546.482 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 남북협력기업에 대한 보조금 지급은 조세지출에 해당한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 508.483, 488.783, 522.868 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 공익단체에 대한 기부행위에 소득공제를 허용하는 것은 조세지출의 예이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 51.332, 484.869, 278.897, 499.253 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 투자세액공제는 조세지출에 해당한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 49.413, 422.777, 545.824, 456.94 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "14. 이자소득세 부과의 효과에 관한 내용으로 옳은 것의 개수는? (단, 현재소비와 미 래소비는 모두 정상재이다.)",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 34,
+        "page number" : 4,
+        "bounding box" : [ 75.739, 293.978, 543.548, 413.608 ],
+        "kids" : [ {
+          "type" : "list",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 81.076, 299.312, 537.669, 409.591 ],
+          "numbering style" : "unordered",
+          "number of list items" : 5,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 81.076, 376.028, 537.669, 409.591 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 저축을 감소시키는 소득효과와 저축을 증가시키는 대체효과를 동시에 발생 시킨다.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 81.076, 356.849, 509.172, 371.233 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 저축에 대한 영향은 시점 간 자원배분모형을 이용하여 분석될 수 있다.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 81.076, 337.67, 428.216, 352.054 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 미래소비보다 현재소비가 유리한 여건이 제공될 수 있다.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 81.076, 318.491, 478.589, 332.875 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 현재소비는 대체효과에 의해 증가하고 소득효과에 의해 감소한다.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 81.076, 299.312, 346.66, 313.696 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 민간저축은 증가할 수도 감소할 수도 있다.",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 35,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 51.332, 267.187, 495.691, 281.571 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① 1개 ② 2개 ③ 3개 ④ 4개 ⑤ 5개"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 49.413, 204.975, 545.824, 239.258 ],
+      "font" : null,
+      "font size" : 12.635,
+      "text color" : "[0.0]",
+      "content" : "15. 어떤 독점기업의 수요함수는    이고, 는  이다. 이 때 단위당 의 종량세를 이 기업에 부과할 경우 발생하는 영향으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 86,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 51.332, 87.024, 326.871, 195.865 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.332, 181.481, 284.894, 195.865 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 시장가격은 120에서 150으로 상승한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.332, 157.867, 296.887, 172.251 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 종량세 과세에 따른 초과부담은 450이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.332, 134.252, 326.871, 148.637 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 소비자에게 귀착되는 종량세 부담은 1200이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.332, 110.638, 326.871, 125.022 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 종량세 부과로 발생하는 조세수입은 3000이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.332, 87.024, 302.884, 101.408 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 시장의 거래량은 80에서 50으로 줄어든다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 87,
+    "page number" : 4,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 15,
+      "page number" : 4,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 4 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 88,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 49.413, 272.102, 545.824, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 85,
+    "next list id" : 91,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 49.413, 783.103, 545.824, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "16. 하버거(A. Harberger)는 아래 가정 하에 조세귀착의 일반균형 모형을 분석하였",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 36,
+        "level" : "2",
+        "page number" : 5,
+        "bounding box" : [ 73.16, 765.123, 332.832, 779.507 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "다. 이 경우에 나타나는 현상으로 옳은 것은?"
+      }, {
+        "type" : "text block",
+        "id" : 37,
+        "page number" : 5,
+        "bounding box" : [ 75.739, 679.476, 543.548, 757.152 ],
+        "kids" : [ {
+          "type" : "list",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 684.811, 537.669, 753.136 ],
+          "numbering style" : "unordered",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 5,
+            "bounding box" : [ 81.076, 720.771, 537.549, 753.136 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 두 재화 X, Y가 있으며, 생산기술은 1차동차(선형동차)이고 X와 Y의 요소 집약도는 동일하다.",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 5,
+            "bounding box" : [ 81.076, 684.811, 537.669, 717.175 ],
+            "font" : null,
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "○ 모든 시장은 완전경쟁이고 노동과 자본의 부존량은 주어져 있고, 이 생산요 소들은 완전한 이동성을 갖는다.",
+            "kids" : [ ]
+          } ]
+        } ]
+      }, {
+        "type" : "list",
+        "id" : 38,
+        "level" : "3",
+        "page number" : 5,
+        "bounding box" : [ 51.332, 522.148, 546.664, 667.07 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 51.332, 652.686, 507.133, 667.07 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① X부문과 Y부문에 대한 동일 세율의 물품세는 노동의 상대가격을 낮추게 된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 51.332, 628.952, 491.901, 643.336 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② X부문에 물품세를 부과하면 노동에 대비한 자본의 상대가격을 높이게 된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 51.332, 587.357, 546.664, 619.722 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ X부문의 자본에 대한 과세는 산출효과를 통해 노동에 대비한 자본의 상대가격을 낮 추게 된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 51.332, 545.763, 546.664, 578.127 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ X부문의 자본에 대한 과세는 요소대체효과를 통해 노동에 대비한 자본의 상대가격을 낮추게 된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 51.332, 522.148, 544.433, 536.533 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ Y부문의 노동에 대한 과세 시 산출효과와 요소대체효과는 서로 같은 방향으로 작용한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 49.413, 486.547, 416.906, 501.531 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "17. 공공요금 이론에 관한 설명으로 옳은 것을 모두 고른 것은?",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 39,
+        "page number" : 5,
+        "bounding box" : [ 75.739, 334.614, 543.548, 478.457 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 462.933, 537.669, 477.317 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄱ. 최대부하가격설정에서 비성수기에는 공공요금을 한계비용에 일치시키는 것"
+        }, {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 5,
+          "bounding box" : [ 103.264, 444.953, 187.746, 459.337 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "이 효율적이다."
+        }, {
+          "type" : "paragraph",
+          "id" : 4,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 426.972, 537.669, 441.357 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄴ. 공공부문이 생산하는 재화나 서비스의 한계비용가격설정은 일반적으로 효"
+        }, {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 5,
+          "bounding box" : [ 103.264, 408.992, 306.482, 423.376 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "율적인 자원배분을 실현할 수 없다."
+        }, {
+          "type" : "paragraph",
+          "id" : 6,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 391.012, 537.549, 405.396 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄷ. 공공서비스의 경우 이부가격제도(two-part tariff)를 적용하면 결손을 줄일"
+        }, {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 5,
+          "bounding box" : [ 103.264, 373.031, 149.967, 387.416 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "수 있다."
+        }, {
+          "type" : "paragraph",
+          "id" : 8,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 355.051, 399.911, 369.435 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄹ. 램지가격설정방식은 분배상 문제를 일으킬 수 있다."
+        }, {
+          "type" : "paragraph",
+          "id" : 9,
+          "level" : "1",
+          "page number" : 5,
+          "bounding box" : [ 81.076, 337.071, 518.647, 351.455 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㅁ. 규모의 경제가 존재할 경우 여러 공기업에서 생산하는 것이 바람직하다."
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 40,
+        "level" : "4",
+        "page number" : 5,
+        "bounding box" : [ 51.332, 307.703, 531.432, 322.087 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ, ㄴ, ㄷ ② ㄱ, ㄷ, ㄹ ③ ㄱ, ㄹ, ㅁ ④ ㄴ, ㄷ, ㄹ ⑤ ㄷ, ㄹ, ㅁ"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 49.413, 272.102, 448.689, 287.085 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "18. 비례소득세 부과가 노동공급에 미치는 영향으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 89,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 51.332, 81.989, 546.664, 262.872 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 51.332, 230.507, 546.664, 262.872 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 여가가 정상재일 경우, 비례소득세를 부과하면 소득효과와 대체효과 모두 노동공급을 증가시키므로 총노동공급은 증가한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 51.332, 188.913, 546.664, 221.277 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 여가가 정상재일 경우, 누진소득세 부과가 노동공급에 미치는 영향은 비례소득세 부 과와 유사하지만 고소득자에게 불리하다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 51.332, 165.298, 461.678, 179.683 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 여가가 열등재일 경우, 비례소득세를 부과하면 노동공급량은 감소한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 51.332, 123.584, 546.664, 155.949 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 여가가 정상재일 경우, 임금변화에 따른 소득효과가 대체효과보다 크다면 후방굴절형 노동공급곡선이 될 것이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 51.332, 81.989, 546.664, 114.354 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 여가가 정상재일 경우, 비례소득세를 부과하면 대체효과는 노동공급을 줄이는 방향으 로 작용하고 소득효과는 노동공급을 늘리는 방향으로 작용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 90,
+    "page number" : 5,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 16,
+      "page number" : 5,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 5 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 91,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 49.413, 366.079, 525.807, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 88,
+    "next list id" : 94,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 49.413, 783.103, 525.807, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "19. 조겐슨(D. Jorgenson)의 신고전파 투자이론에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 41,
+        "level" : "3",
+        "page number" : 6,
+        "bounding box" : [ 51.332, 626.674, 546.664, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 6,
+          "bounding box" : [ 51.332, 759.489, 344.861, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 자본의 사용자 비용이 적을수록 투자가 증가한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 6,
+          "bounding box" : [ 51.332, 735.875, 542.754, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 생산요소 간에 대체탄력성이 작으면 자본스톡의 사용자비용탄력성이 낮아질 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 6,
+          "bounding box" : [ 51.332, 712.261, 545.153, 726.645 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 자본스톡의 사용자비용탄력성이 작을수록 법인세가 기업의 투자에 미치는 영향이 크다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 6,
+          "bounding box" : [ 51.332, 669.467, 546.664, 703.031 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 법인세의 경우 자본재 구입비용은 즉시상각하고, 지급이자에 대한 비용공제는 불허하 면 투자에 대해 중립적이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 6,
+          "bounding box" : [ 51.332, 626.674, 546.664, 660.238 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 자기자본의 귀속이자비용과 차입금에 대한 이자공제가 허용되고 세법상 감가상각률과 경제적 감가상각률이 일치할 경우 법인세는 투자에 영향을 미치지 않는다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 49.413, 583.761, 416.906, 598.745 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "20. 지방분권에 관한 설명으로 옳지 않은 것을 모두 고른 것은?",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 42,
+        "page number" : 6,
+        "bounding box" : [ 75.739, 435.783, 543.548, 574.592 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 6,
+          "bounding box" : [ 81.076, 556.191, 431.094, 570.576 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄱ. 자치단체 간 경쟁을 유발하여 효율적인 생산을 촉진한다."
+        }, {
+          "type" : "paragraph",
+          "id" : 2,
+          "level" : "1",
+          "page number" : 6,
+          "bounding box" : [ 81.076, 537.012, 450.284, 551.396 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄴ. 중앙정부의 교부금으로 인해 지방의 재정자립도가 높아진다."
+        }, {
+          "type" : "paragraph",
+          "id" : 3,
+          "level" : "1",
+          "page number" : 6,
+          "bounding box" : [ 81.076, 517.833, 461.678, 532.217 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄷ. 지역 간 재정능력의 불균형으로 지역 간 격차가 커질 수 있다."
+        }, {
+          "type" : "paragraph",
+          "id" : 4,
+          "level" : "1",
+          "page number" : 6,
+          "bounding box" : [ 81.076, 498.654, 537.549, 513.038 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄹ. 오우츠(W. Oates)의 분권화 정리는 지방공공재 공급에 있어서 규모의 경"
+        }, {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 6,
+          "bounding box" : [ 103.264, 479.475, 453.882, 493.859 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "제가 있고, 인접 지역으로의 외부성이 없는 경우에 성립한다."
+        }, {
+          "type" : "paragraph",
+          "id" : 6,
+          "level" : "1",
+          "page number" : 6,
+          "bounding box" : [ 81.076, 460.296, 537.669, 474.68 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㅁ. 지방분권제도가 중앙집권제도보다 지방공공재에 대한 정보를 획득하는 비"
+        }, {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 6,
+          "bounding box" : [ 103.264, 441.117, 162.56, 455.501 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "용이 높다."
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 43,
+        "level" : "4",
+        "page number" : 6,
+        "bounding box" : [ 51.332, 408.992, 531.432, 423.376 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ, ㄴ, ㄷ ② ㄱ, ㄴ, ㄹ ③ ㄴ, ㄷ, ㄹ ④ ㄴ, ㄹ, ㅁ ⑤ ㄷ, ㄹ, ㅁ"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 49.413, 366.079, 379.726, 381.063 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "21. 자원배분의 효율성에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 92,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 51.332, 190.471, 546.784, 356.849 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 51.332, 323.286, 546.664, 356.849 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 후생경제학의 제1정리는 아담 스미스(A. Smith)의 ‘보이지 않는 손’이 효율적인 자원 배분을 실현함을 의미한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 51.332, 299.672, 434.812, 314.056 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 정보의 비대칭성은 자원배분의 비효율성을 초래하는 요인이 된다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 51.332, 276.057, 482.786, 290.442 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 어떤 자원배분 상태에 파레토개선의 여지가 있다면 그 상태는 효율적이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 51.332, 233.264, 546.784, 266.827 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 영기준 예산제도는 점증주의 예산에서 탈피하여 효율적 자원배분을 제고할 수 있는 제도이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 51.332, 190.471, 546.784, 224.034 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 공공부문이 공급하는 재화나 서비스에 공공요금을 부과하면 가격기능을 통해 효율적 인 자원배분이 가능하다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 93,
+    "page number" : 6,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 17,
+      "page number" : 6,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 6 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 94,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 49.413, 90.079, 545.824, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 91,
+    "next list id" : 97,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.413, 761.527, 545.824, 798.087 ],
+      "font" : null,
+      "font size" : 12.635,
+      "text color" : "[0.0]",
+      "content" : "22. 와  두 명으로 구성된 사회에서 개인의 효용을 각각  와 , 사회후생을  라고 할 때, 다음 중 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 44,
+        "level" : "3",
+        "page number" : 7,
+        "bounding box" : [ 51.332, 580.764, 546.712, 752.177 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 718.614, 546.664, 752.177 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 어떤 배분상태가 효용가능경계상에 있다면 그 상태에서 효율성과 공평성을 동시에 개 선시킬 수 없다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 675.821, 546.712, 709.384 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 평등주의적 사회후생함수의 경우, 평등주의적 성향이 극단적으로 강하면 롤즈(J. Rawls)적 사회무차별곡선의 형태를 가진다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 649.983, 402.91, 666.591 ],
+          "font" : null,
+          "font size" : 14.504,
+          "text color" : "[0.0]",
+          "content" : "③ 롤즈의 사회후생함수는 min로 나타낼 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 604.379, 546.664, 640.459 ],
+          "font" : null,
+          "font size" : 12.635,
+          "text color" : "[0.0]",
+          "content" : "④ 사회후생함수가 일 경우, 의 효용이 의 효용보다 사회적으로 2배의 중요성이 부여되고 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 580.764, 482.786, 595.149 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 평등주의적 사회후생함수는 사회 구성원들에게 동일한 가중치를 부여한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.413, 537.971, 410.909, 552.955 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "23. 시장실패와 정부의 기능에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 45,
+        "level" : "3",
+        "page number" : 7,
+        "bounding box" : [ 51.332, 381.422, 546.784, 528.741 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 495.178, 546.664, 528.741 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 국민연금의 강제 가입은 일찍 은퇴할 가능성이 높은 사람만 가입하는 역선택 문제를 해결할 수 없다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 471.564, 362.851, 485.948 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 중립세는 민간부분의 의사결정을 교란시키지 않는다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 447.83, 278.897, 462.214 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 시장실패는 정부개입의 필요조건이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 405.036, 546.784, 438.6 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 정부가 어떤 정책에 대한 민간부문의 반응을 완벽하게 통제하지 못하면 정부실패가 발생할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 381.422, 542.754, 395.807 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 자연독점기업에 대한 한계비용가격설정은 독점으로 인한 비효율성을 제거할 수 있다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.413, 338.509, 545.824, 353.613 ],
+      "font" : null,
+      "font size" : 12.635,
+      "text color" : "[0.0]",
+      "content" : "24. 기업 와 는 현재 각각 단위의 오염을 배출하고 있으며, 배출의 저감비용은",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 46,
+        "page number" : 7,
+        "bounding box" : [ 73.16, 303.876, 197.571, 325.803 ],
+        "font" : "HyhwpEQ",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "각각      "
+      }, {
+        "type" : "paragraph",
+        "id" : 47,
+        "page number" : 7,
+        "bounding box" : [ 189.257, 319.459, 195.137, 331.446 ],
+        "font" : "HyhwpEQ",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : ""
+      }, {
+        "type" : "paragraph",
+        "id" : 48,
+        "page number" : 7,
+        "bounding box" : [ 73.16, 244.107, 545.836, 326.097 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : " ,       이다. 정부가 총 배출량을  줄이기 위해 배출권거래제를 도입하고, 에 단위, 에 단위의 배출권을 무료로 할당한다면 배출권시장의 균형에서 (ㄱ)배출권의 가격과 (ㄴ)배출권 거래량은? (단,   는 기업 의 배출 저감량이다.)"
+      }, {
+        "type" : "paragraph",
+        "id" : 51,
+        "level" : "4",
+        "page number" : 7,
+        "bounding box" : [ 51.332, 220.198, 521.597, 234.583 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ: 100, ㄴ: 100단위 ② ㄱ: 100, ㄴ: 200단위 ③ ㄱ: 200, ㄴ: 100단위"
+      }, {
+        "type" : "list",
+        "id" : 52,
+        "level" : "2",
+        "page number" : 7,
+        "bounding box" : [ 51.332, 196.584, 352.609, 210.969 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 1,
+        "previous list id" : 82,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 51.332, 196.584, 352.609, 210.969 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ ㄱ: 200, ㄴ: 200단위 ⑤ ㄱ: 250, ㄴ: 100단위",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.413, 90.079, 545.824, 171.172 ],
+      "font" : null,
+      "font size" : 15.583,
+      "text color" : "[0.0]",
+      "content" : "25. 개인 와 로 구성된 경제에 재가 단위 존재하며, 이 재화에 대한 효용함 수는 각각  ,  이다. 이 사회의 사회후생함수를  min 로 가정할 경우 사회후생의 극댓값은? (단,     는 개인 의 재 소비량이다.)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 51.332, 66.646, 495.691, 81.031 ],
+    "font" : null,
+    "font size" : 11.987,
+    "text color" : "[0.0]",
+    "content" : "① 15 ② 30 ③ 60 ④ 90 ⑤ 100"
+  }, {
+    "type" : "footer",
+    "id" : 96,
+    "page number" : 7,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 18,
+      "page number" : 7,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 7 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 97,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 49.413, 223.435, 404.913, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 94,
+    "next list id" : 100,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 49.413, 783.103, 310.764, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "26. 외부성에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 53,
+        "level" : "3",
+        "page number" : 8,
+        "bounding box" : [ 51.332, 688.647, 546.664, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 759.489, 368.848, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 기술적 외부성은 자원 배분의 비효율성을 발생시킨다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 688.647, 546.664, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 코즈(R. Coase) 정리가 성립하려면 외부성에 관한 권리(재산권)의 설정이 명확해야 한다. ③ 해로운 외부성이 존재하면 해당 재화는 사회적 최적 수준보다 과다 생산되는 경향이 있다. ④ 대규모 건설공사로 인한 건축자재 가격 상승으로 다른 건축업자가 피해를 입은 것은",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 54,
+        "page number" : 8,
+        "bounding box" : [ 72.081, 669.467, 218.929, 683.852 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "금전적인 외부성의 예이다."
+      }, {
+        "type" : "paragraph",
+        "id" : 55,
+        "level" : "4",
+        "page number" : 8,
+        "bounding box" : [ 51.332, 645.853, 458.799, 660.238 ],
+        "font" : null,
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "⑤ 코즈 정리에 따르면 외부성 관련 거래비용이 클수록 협상이 용이하다."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 49.413, 602.94, 310.764, 617.924 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "27. 공공재에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 56,
+        "level" : "3",
+        "page number" : 8,
+        "bounding box" : [ 51.332, 446.511, 546.784, 593.71 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 579.326, 530.76, 593.71 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 클럽재는 부분적으로 경합성의 성질을 가져 혼잡을 발생시키는 재화나 서비스이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 555.712, 414.064, 570.096 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 순수공공재의 경우 소비자 추가에 따른 한계비용이 영(0)이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 512.919, 546.664, 546.482 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 공공재의 최적 공급수준은 개별 이용자의 한계편익의 합과 한계비용이 일치할 때 달 성된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 470.125, 546.784, 503.689 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 클라크 조세(Clarke tax)에서 각 개인은 공공재에 대한 자신의 진정한 선호를 표출하 는 것이 우월전략이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 446.511, 260.907, 460.895 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 가치재는 순수 공공재에 해당된다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 49.413, 403.598, 404.913, 418.582 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "28. 공공선택에서 투표제도에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 57,
+        "level" : "3",
+        "page number" : 8,
+        "bounding box" : [ 51.332, 266.348, 546.664, 394.368 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 379.984, 356.855, 394.368 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 과반수제가 갖는 문제점으로는 투표의 역설이 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 356.37, 488.783, 370.754 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 최적다수결제의 경우 의사결정비용은 의결에 필요한 표수가 클수록 커진다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 332.755, 544.553, 347.14 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 린달(E. Lindahl) 모형은 전원합의제에 의한 공공재 배분의 가능성을 보여준 사례이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 289.962, 546.664, 323.526 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 전략적 행동이 없을 경우, 선택대상에 대한 선호의 강도를 가장 잘 반영하는 것은 점 수투표제이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 51.332, 266.348, 513.37, 280.732 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 점수투표제에서 투표거래(logrolling)가 발생하면 선호의 강도가 반영될 수 없다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 49.413, 223.435, 392.319, 238.419 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "29. 오염배출권 거래제도에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 98,
+    "level" : "3",
+    "page number" : 8,
+    "bounding box" : [ 51.332, 86.185, 546.784, 214.205 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 51.332, 180.642, 546.784, 214.205 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 배출권 시장의 균형에서는 개별 기업이 결정한 배출량의 합이 정부가 설정한 목표 배 출량과 일치한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 51.332, 157.027, 542.754, 171.412 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 정부는 총배출량을 설정할 때 개별 기업의 한계저감비용에 관한 정보를 필요로 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 51.332, 133.413, 494.78, 147.798 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 환경세에 비해 인플레이션과 같은 경제 상황의 변화에 쉽게 적응할 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 51.332, 109.799, 470.793, 124.183 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 배출권 거래 시 한계저감비용이 상대적으로 높은 기업이 구매자가 된다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 51.332, 86.185, 422.819, 100.569 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 배출권 시장의 균형에서는 각 기업의 한계저감비용이 같아진다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 99,
+    "page number" : 8,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 19,
+      "page number" : 8,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 8 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 100,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 49.413, 235.781, 448.689, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 97,
+    "next list id" : 103,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.413, 783.103, 442.812, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "30. 니스카넨(W. Niskanen) 모형에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 58,
+        "level" : "3",
+        "page number" : 9,
+        "bounding box" : [ 51.332, 626.674, 546.664, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 759.489, 404.829, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 관료는 사회적 최적 수준보다 과다한 생산 수준을 선택한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 735.875, 522.365, 750.259 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 생산 수준이 미그-빌레인저(Migue-Belanger) 모형에서 제시한 수준보다 더 적다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 693.082, 546.664, 726.645 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 관료제에 대응하는 방안으로 민간부문에 생산을 맡기고 정부는 비용만 부담하는 방법 을 제안했다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 669.467, 387.078, 683.852 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 관료가 선택한 생산수준에서는 사회적 잉여가 영(0) 이다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 626.674, 546.664, 660.238 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 관료는 예산 극대화를 추구하며, 총편익과 총비용이 일치하는 수준에서 생산 수준을 결정한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.413, 583.761, 436.096, 598.745 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "31. 공공사업이 유발하는 편익과 비용에 관한 설명으로 옳은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 59,
+        "level" : "3",
+        "page number" : 9,
+        "bounding box" : [ 51.332, 427.332, 546.784, 574.531 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 540.968, 546.784, 574.531 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 공공사업을 추진하는 행정주체는 내부적 편익과 외부적 편익 가운데 외부적 편익을 더 중시한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 517.354, 527.642, 531.738 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 공공사업의 목표는 소득재분배, 총 소비 증대를 통한 국민의 후생증진에 국한된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 493.74, 476.79, 508.124 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 공공사업에서 발생하는 금전적 편익은 사회 전체적인 후생을 증진시킨다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 470.125, 470.793, 484.51 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 공공사업의 유형적 편익과 무형적 편익을 비교하면 무형적 편익이 크다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 51.332, 427.332, 546.664, 460.895 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 공공사업은 이윤 이외의 목표 추구 등을 고려하므로 그 편익과 비용을 측정할 때 시 장가격과 다른 척도의 적용이 필요하다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.413, 384.419, 448.689, 399.403 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "32. 소득분배의 불평등을 완화하는 정책으로 옳은 것만을 고른 것은?",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 60,
+        "page number" : 9,
+        "bounding box" : [ 75.739, 329.1, 543.548, 375.25 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 9,
+          "bounding box" : [ 81.076, 355.171, 351.649, 369.555 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄱ. 교육기회 확대 ㄴ. 누진세제"
+        }, {
+          "type" : "paragraph",
+          "id" : 2,
+          "level" : "1",
+          "page number" : 9,
+          "bounding box" : [ 81.076, 335.992, 395.426, 350.376 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄷ. 인두세 강화 ㄹ. 복권제도 활성화"
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 61,
+        "level" : "4",
+        "page number" : 9,
+        "bounding box" : [ 51.332, 302.309, 463.789, 316.693 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ, ㄴ ② ㄷ, ㄹ ③ ㄱ, ㄴ, ㄷ"
+      }, {
+        "type" : "paragraph",
+        "id" : 62,
+        "level" : "4",
+        "page number" : 9,
+        "bounding box" : [ 51.332, 278.695, 315.669, 293.079 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "④ ㄴ, ㄷ, ㄹ ⑤ ㄱ, ㄴ, ㄷ, ㄹ"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.413, 235.781, 426.021, 250.765 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "33. 앳킨슨(A. Atkinson) 지수에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 101,
+    "level" : "3",
+    "page number" : 9,
+    "bounding box" : [ 51.332, 79.352, 546.784, 226.552 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 51.332, 212.167, 506.773, 226.552 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 사회후생함수에 의한 가치판단을 명시적으로 전제하여 소득불평등을 측정한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 51.332, 169.374, 546.784, 202.937 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 불균등한 분배가 사회후생을 떨어뜨리는 정도가 클수록 균등분배대등소득과 1인당 평 균소득 간 격차는 줄어든다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 51.332, 145.76, 528.002, 160.144 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 균등분배대등소득과 1인당 평균소득이 같으면 앳킨슨 지수는 영(0)의 값을 갖는다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 51.332, 102.967, 546.664, 136.53 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 동일한 분배상태라도 보는 사람에 따라 균등분배대등소득이 달라질 수 있으므로 앳킨 슨 지수의 값은 여러 가지로 측정될 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 51.332, 79.352, 314.877, 93.737 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 앳킨슨 지수는 0에서 1 사이의 값을 갖는다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 102,
+    "page number" : 9,
+    "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 20,
+      "page number" : 9,
+      "bounding box" : [ 156.035, 30.566, 438.92, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 9 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 103,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 49.413, 209.65, 486.588, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 100,
+    "next list id" : 106,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 49.413, 783.103, 335.95, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "34. 사회보험과 관련된 내용만을 모두 고른 것은?",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 63,
+        "page number" : 10,
+        "bounding box" : [ 75.739, 727.784, 543.548, 773.934 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 81.076, 753.855, 435.364, 768.24 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄱ. 정부의 재정수입 달성 ㄴ. 시장실패의 보완"
+        }, {
+          "type" : "paragraph",
+          "id" : 2,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 81.076, 734.676, 479.14, 749.06 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "ㄷ. 보험료에 의한 재원 조달 ㄹ. 정부의 온정적 간섭주의"
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 64,
+        "level" : "3",
+        "page number" : 10,
+        "bounding box" : [ 51.332, 700.993, 531.432, 715.377 ],
+        "font" : "Batang",
+        "font size" : 11.987,
+        "text color" : "[0.0]",
+        "content" : "① ㄱ, ㄴ ② ㄱ, ㄹ ③ ㄴ, ㄷ ④ ㄱ, ㄴ, ㄷ ⑤ ㄴ, ㄷ, ㄹ"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 49.413, 660.597, 486.588, 675.581 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "35. 다음은 예산제도에 관한 설명이다. ( )에 들어갈 내용으로 옳은 것은?",
+      "kids" : [ {
+        "type" : "text block",
+        "id" : 65,
+        "page number" : 10,
+        "bounding box" : [ 75.739, 568.478, 543.548, 651.308 ],
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 10,
+          "bounding box" : [ 81.076, 574.531, 537.549, 646.453 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "각 기관의 지출항목별로 예산을 편성하는 방식을 ( ㄱ )라고 부른다. ( ㄱ )는 유사한 일을 하는 부서 간에 예산편중 중복을 차단하기 쉽지 않다. ( ㄴ )는 비 슷한 기능을 가진 부서들이 하는 업무를 하나로 묶어 소요예산을 절감하는 방 식을 따르며, 우리나라는 2007년부터 도입하여 운영하고 있다."
+        } ]
+      }, {
+        "type" : "list",
+        "id" : 66,
+        "level" : "4",
+        "page number" : 10,
+        "bounding box" : [ 51.332, 447.11, 355.247, 555.952 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 541.567, 343.254, 555.952 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① ㄱ: 품목별 예산제도, ㄴ: 영기준 예산제도",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 517.953, 355.247, 532.337 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② ㄱ: 품목별 예산제도, ㄴ: 프로그램 예산제도",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 494.339, 343.254, 508.723 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ ㄱ: 영기준 예산제도, ㄴ: 품목별 예산제도",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 470.725, 343.254, 485.109 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ ㄱ: 프로그램 예산제도, ㄴ: 품목별 예산제도",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 447.11, 355.247, 461.495 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ ㄱ: 영기준 예산제도, ㄴ: 프로그램 예산제도",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 49.413, 408.992, 348.543, 423.976 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "36. 사회후생함수에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 67,
+        "level" : "4",
+        "page number" : 10,
+        "bounding box" : [ 51.332, 252.563, 546.664, 399.762 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 385.378, 545.153, 399.762 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 롤즈(J. Rawls)적 가치판단에 기초한 사회무차별곡선은 우하향하는 직선 형태로 표시된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 342.585, 546.664, 376.148 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 사회후생함수가 설정되면 어떤 변화가 발생했을 때, 그것이 개선인지의 여부를 판정 할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 318.971, 512.77, 333.355 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 사회후생함수와 효용가능경계를 이용하여 바람직한 자원배분을 도출할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 295.356, 506.773, 309.741 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 사회구성원들의 가치판단에 따라 여러 유형의 사회후생함수가 선택될 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 51.332, 252.563, 546.664, 286.126 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 센(A. Sen)에 따르면 제한된 수의 선택가능성 사이에 서열을 매길 수 있는 합리적이 고 민주적인 사회적 선호체계의 도출이 가능하다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 49.413, 209.65, 361.136, 224.634 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "37. 소득재분배정책에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 104,
+    "level" : "4",
+    "page number" : 10,
+    "bounding box" : [ 51.332, 72.4, 546.784, 200.42 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.332, 186.036, 530.76, 200.42 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 로렌츠곡선을 완전히 평등한 분배를 나타내는 대각선으로 접근시키는 역할을 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.332, 162.422, 416.822, 176.806 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 상속 및 증여세는 세입 측면의 소득재분배정책 성격을 갖는다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.332, 138.807, 407.707, 153.192 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 현금보조, 물품보조 등을 활용하는 방식으로 시행될 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.332, 96.014, 546.784, 129.577 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 로렌츠곡선, 지니계수, 앳킨슨 지수로 분배의 불평등을 평가함에 있어서는 가치판단이 개입된다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.332, 72.4, 326.871, 86.784 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 지니계수가 커지면 소득분배의 개선으로 본다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 105,
+    "page number" : 10,
+    "bounding box" : [ 153.037, 30.566, 441.799, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 21,
+      "page number" : 10,
+      "bounding box" : [ 153.037, 30.566, 441.799, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 10 )"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 106,
+    "level" : "1",
+    "page number" : 11,
+    "bounding box" : [ 49.413, 307.703, 417.506, 798.087 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 103,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 49.413, 783.103, 354.54, 798.087 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "38. 정부지출 증가 원인에 관한 주장으로 옳은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 68,
+        "level" : "3",
+        "page number" : 11,
+        "bounding box" : [ 51.332, 569.137, 546.784, 773.873 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 740.31, 546.784, 773.873 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 브라운-잭슨(C. Brown & P. Jackson): 바그너(A. Wagner)의 법칙을 중위투표자의 선택과 결부시켜 설명하였다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 697.517, 546.664, 731.08 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 보몰(W. Baumol): 사회적 격변기에 전위효과(displacement effect)의 영향으로 정부지 출이 팽창된다고 보았다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 654.724, 546.664, 688.287 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 피코크-와이즈만(A. Peacock & J. Wiseman): 노동집약적인 공공부문이 민간부문보다 생산성 향상이 느리기 때문에 정부지출이 팽창된다고 주장하였다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 611.93, 546.664, 645.494 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 부캐넌(J. Buchanan): 정부지출의 편익이 간접적으로 인식되는 반면, 공공서비스의 공 급비용은 과대평가되므로 정부지출이 팽창된다고 설명하였다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 569.137, 546.664, 602.7 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 바그너의 법칙: 1인당 국민소득 하락 국면에서 공공부문의 상대적 크기가 증가하는 것을 말한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 49.413, 526.224, 317.36, 541.208 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "39. 비용편익분석에 관한 내용으로 옳은 것은?",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 69,
+        "level" : "3",
+        "page number" : 11,
+        "bounding box" : [ 51.332, 350.616, 546.784, 516.994 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 502.61, 320.874, 516.994 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "① 파레토기준을 충족한 투자계획만을 채택한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 478.996, 338.864, 493.38 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "② 공공부문의 투자계획 타당성 판정에만 적용된다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 436.202, 546.784, 469.766 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "③ 현재가치법에서 적용되는 할인율은 투자계획에 사용되는 자금의 기간당 기회비용과 일치하도록 선택되어야 한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 393.409, 546.664, 426.972 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "④ 현재가치법은 어떤 투자계획의 채택가능성을 평가할 뿐이며, 투자계획들 간 우선순위 를 결정하지는 못한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 11,
+          "bounding box" : [ 51.332, 350.616, 546.784, 384.179 ],
+          "font" : null,
+          "font size" : 11.987,
+          "text color" : "[0.0]",
+          "content" : "⑤ 내부수익률이 투자계획에 소요되는 자금의 기회비용인 할인율보다 크다면 그 투자계 획은 기각된다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 49.413, 307.703, 417.506, 322.686 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "40. 우리나라의 국민연금제도에 관한 설명으로 옳지 않은 것은?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 107,
+    "level" : "3",
+    "page number" : 11,
+    "bounding box" : [ 51.332, 170.453, 546.784, 298.473 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.332, 284.089, 188.946, 298.473 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "① 1988년에 시행되었다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.332, 260.474, 404.829, 274.859 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "② 최초 법적 기반은 1973년에 제정된 「국민복지연금법」이다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.332, 236.86, 526.802, 251.245 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "③ 사업장가입자 한 사람당 기준소득월액의 9 %씩 국민연금 보험료로 납부되고 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.332, 213.246, 530.76, 227.63 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "④ 2022년부터 1인 이상 근무하는 전체 사업장이 국민연금 가입 대상으로 확대되었다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.332, 170.453, 546.784, 204.016 ],
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "⑤ 65세 이상 노령층에 대해 소득수준 등을 감안하여 지급되는 기초연금은 국민연금을 보완하는 측면이 있다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 108,
+    "page number" : 11,
+    "bounding box" : [ 153.037, 30.566, 441.799, 44.95 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 11,
+      "bounding box" : [ 153.037, 30.566, 441.799, 44.95 ],
+      "heading level" : 2,
+      "font" : null,
+      "font size" : 11.987,
+      "text color" : "[0.0]",
+      "content" : "2022년도 제59회 세무사 1차 1교시 A형 ( 30 - 11 )"
+    } ]
+  } ]
+}
