@@ -6,14 +6,14 @@ import type { Question, Topic } from '@/lib/types'
 import { allQuestions } from '@/lib/data'
 import { topicMap } from '@/lib/data/jaejeonghak'
 
-type ExpandLevel = 0 | 1 | 2 | 3 | 4
+type ExpandLevel = 0 | 1 | 2 | 3 | 4 | 5
 
-// 5단계 레벨 설명
 const LEVELS = [
   { label: '핵심 키워드', icon: '🔑', color: 'indigo' },
   { label: '핵심 문장', icon: '💡', color: 'blue' },
   { label: '문제 전체', icon: '📋', color: 'violet' },
-  { label: '기본 해설', icon: '📖', color: 'teal' },
+  { label: '선지 분석', icon: '🔍', color: 'amber' },
+  { label: '쉬운 해설', icon: '📖', color: 'teal' },
   { label: '상세 해설', icon: '🔬', color: 'slate' },
 ]
 
@@ -134,11 +134,51 @@ export function QuestionDetail({ question }: { question: Question }) {
             </div>
           </div>
 
-          {/* Level 3: 기본 해설 */}
+          {/* Level 3: 각 선지 분석 */}
           <div className={`expand-content ${level >= 3 ? 'expanded' : 'collapsed'}`}>
             <div>
               <div className="flex items-center gap-2 mb-2">
-                <span className="text-xs font-bold text-teal-600 uppercase tracking-wide">기본 해설</span>
+                <span className="text-xs font-bold text-amber-600 uppercase tracking-wide">각 선지 분석</span>
+                <div className="h-px flex-1 bg-amber-100" />
+              </div>
+              <div className="bg-amber-50 rounded-xl border border-amber-100 p-4 space-y-2">
+                {question.choices.map((choice, i) => {
+                  const isCorrect = i + 1 === question.answer
+                  return (
+                    <div
+                      key={i}
+                      className={`flex gap-2 px-3 py-2.5 rounded-lg text-sm ${
+                        isCorrect
+                          ? 'bg-emerald-100 border border-emerald-300'
+                          : 'bg-white border border-slate-200'
+                      }`}
+                    >
+                      <span className={`font-bold shrink-0 ${isCorrect ? 'text-emerald-600' : 'text-slate-400'}`}>
+                        {'①②③④⑤'[i]}
+                      </span>
+                      <div className="flex-1">
+                        <span className={isCorrect ? 'text-emerald-800 font-semibold' : 'text-slate-700'}>{choice}</span>
+                        {isCorrect && (
+                          <span className="ml-2 text-xs font-bold text-emerald-600">✓ 정답</span>
+                        )}
+                        {question.choiceAnalysis?.[i] && (
+                          <p className={`mt-1 text-xs leading-relaxed ${isCorrect ? 'text-emerald-700' : 'text-slate-500'}`}>
+                            → {question.choiceAnalysis[i]}
+                          </p>
+                        )}
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          </div>
+
+          {/* Level 4: 쉬운 해설 */}
+          <div className={`expand-content ${level >= 4 ? 'expanded' : 'collapsed'}`}>
+            <div>
+              <div className="flex items-center gap-2 mb-2">
+                <span className="text-xs font-bold text-teal-600 uppercase tracking-wide">쉬운 해설</span>
                 <div className="h-px flex-1 bg-teal-100" />
               </div>
               <div className="bg-teal-50 rounded-xl border border-teal-100 p-4">
@@ -149,8 +189,8 @@ export function QuestionDetail({ question }: { question: Question }) {
             </div>
           </div>
 
-          {/* Level 4: 상세 해설 */}
-          <div className={`expand-content ${level >= 4 ? 'expanded' : 'collapsed'}`}>
+          {/* Level 5: 상세 해설 */}
+          <div className={`expand-content ${level >= 5 ? 'expanded' : 'collapsed'}`}>
             <div>
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-xs font-bold text-slate-500 uppercase tracking-wide">상세 해설</span>
@@ -174,7 +214,7 @@ export function QuestionDetail({ question }: { question: Question }) {
             ↑ 핵심만 보기
           </button>
           <button
-            onClick={() => setLevel(4)}
+            onClick={() => setLevel(5)}
             className="text-xs px-3 py-1.5 rounded-full border border-indigo-200 text-indigo-600 hover:bg-indigo-50"
           >
             ↓ 전부 펼치기

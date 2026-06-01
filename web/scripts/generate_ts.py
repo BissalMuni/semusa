@@ -1,12 +1,13 @@
 """
-enriched JSON → TypeScript 데이터 파일 생성
-questions.ts + topics.ts를 enriched JSON 기반으로 재생성
+MD 파일 → TypeScript 데이터 파일 생성
+questions.ts + topics.ts를 MD 파일 + _mapping.json 기반으로 재생성
 """
-import json
+import json, re, yaml
 from pathlib import Path
 from collections import Counter, defaultdict
 
-ENRICHED_DIR = Path("d:/Coding/semusa/web/data/enriched")
+QUESTIONS_DIR = Path("d:/Coding/semusa/web/data/questions")
+MAPPING_PATH = QUESTIONS_DIR / "_mapping.json"
 OUT_DIR = Path("d:/Coding/semusa/web/lib/data/jaejeonghak")
 
 TAXONOMY = {
@@ -32,14 +33,69 @@ TAXONOMY = {
 }
 
 
+def parse_md(path: Path) -> dict:
+    text = path.read_text(encoding="utf-8")
+    fm_match = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.DOTALL)
+    if not fm_match:
+        return {}
+    meta = yaml.safe_load(fm_match.group(1))
+    body = fm_match.group(2).strip()
+
+    sections = re.split(r"\n## ", body)
+    main_text = sections[0]
+
+    # 제목 줄 제거, 문제 텍스트 추출
+    lines = main_text.strip().split("\n")
+    question_lines = []
+    choices = []
+    past_title = False
+    for line in lines:
+        if line.startswith("# "):
+            past_title = True
+            continue
+        if not past_title:
+            continue
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped[0] in "①②③④⑤":
+            choices.append(stripped[1:].strip())
+        else:
+            question_lines.append(stripped)
+
+    basic = ""
+    detailed = ""
+    sub_items = None
+    for sec in sections[1:]:
+        if sec.startswith("기본 해설"):
+            basic = sec.split("\n", 1)[1].strip() if "\n" in sec else ""
+        elif sec.startswith("상세 해설"):
+            detailed = sec.split("\n", 1)[1].strip() if "\n" in sec else ""
+        elif sec.startswith("보기"):
+            content = sec.split("\n", 1)[1].strip() if "\n" in sec else ""
+            sub_items = [l.lstrip("- ").strip() for l in content.split("\n") if l.strip()]
+
+    return {
+        "year": meta.get("year", 0),
+        "number": meta.get("number", 0),
+        "topicId": meta.get("topicId", ""),
+        "keywords": meta.get("keywords", []),
+        "answer": meta.get("answer", 1),
+        "difficulty": meta.get("difficulty", 2),
+        "coreStatement": meta.get("coreStatement", ""),
+        "questionText": "\n".join(question_lines),
+        "choices": choices,
+        "basicExplanation": basic,
+        "detailedExplanation": detailed,
+        "subItems": sub_items,
+    }
+
+
 def load_all_questions():
     questions = []
-    for y in [2022, 2023, 2024, 2025, 2026]:
-        fpath = ENRICHED_DIR / f"enriched_{y}_재정학.json"
-        data = json.loads(fpath.read_text(encoding="utf-8"))
-        file_year = data.get("year", y)
-        for q in data["questions"]:
-            q["year"] = q.get("year", file_year)
+    for md in sorted(QUESTIONS_DIR.glob("????-Q??.md")):
+        q = parse_md(md)
+        if q:
             questions.append(q)
     return questions
 
@@ -112,23 +168,36 @@ def generate_topics_ts(questions: list) -> str:
 
 
 def generate_questions_ts(questions: list) -> str:
+    mapping = json.loads(MAPPING_PATH.read_text(encoding="utf-8")) if MAPPING_PATH.exists() else {}
+    similar = mapping.get("similarQuestions", {})
+
+    def md_id_to_ts_id(md_id: str) -> str:
+        # "2022-Q01" → "2022-01"
+        parts = md_id.split("-Q")
+        return f"{parts[0]}-{parts[1]}" if len(parts) == 2 else md_id
+
     lines = [
         "import type { Question } from '@/lib/types'",
         "",
-        "// 재정학 5개년 200문제 (scripts/generate_ts.py 로 자동 생성)",
+        "// 재정학 5개년 200문제 (scripts/generate_ts.py 로 자동 생성, 소스: data/questions/*.md)",
         "export const jaejeonghakQuestions: Question[] = [",
     ]
 
     for q in sorted(questions, key=lambda x: (x.get("year", 0), x.get("number", 0))):
         year = q.get("year", 0)
         num = q.get("number", 0)
-        qid = f"{year}_재정학_{num:02d}"
+        qid = f"{year}-{num:02d}"
+        md_id = f"{year}-Q{num:02d}"
         qt = esc(q.get("questionText", ""))
         choices = json.dumps(q.get("choices", []), ensure_ascii=False)
         kw = json.dumps(q.get("keywords", []), ensure_ascii=False)
         core = esc(q.get("coreStatement", ""))
         basic = esc(q.get("basicExplanation", ""))
         detailed = esc(q.get("detailedExplanation", ""))
+
+        related_md = similar.get(md_id, [])
+        related_ts = [md_id_to_ts_id(r) for r in related_md[:3]]
+        related_json = json.dumps(related_ts, ensure_ascii=False)
 
         lines.append(f"  {{")
         lines.append(f"    id: '{qid}',")
@@ -137,7 +206,7 @@ def generate_questions_ts(questions: list) -> str:
         lines.append(f"    subject: '재정학',")
         lines.append(f"    number: {num},")
         lines.append(f"    topicId: '{q.get('topicId', '')}',")
-        lines.append(f"    relatedQuestionIds: [],")
+        lines.append(f"    relatedQuestionIds: {related_json},")
         lines.append(f"    keywords: {kw},")
         lines.append(f"    coreStatement: `{core}`,")
         lines.append(f"    questionText: `{qt}`,")

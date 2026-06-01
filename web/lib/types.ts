@@ -38,7 +38,8 @@ export interface Question {
   questionText: string         // Level 3: 전체 문제
   choices: string[]            // 객관식 보기 (보통 5지선다)
   answer: number               // 정답 번호 (1-5)
-  basicExplanation: string     // Level 4: 기본 해설
+  choiceAnalysis?: string[]    // 각 선지별 분석 (선지 개수와 동일)
+  basicExplanation: string     // Level 4: 쉬운 해설
   detailedExplanation: string  // Level 5: 상세 해설 (이론 연결)
 
   difficulty: DifficultyLevel
