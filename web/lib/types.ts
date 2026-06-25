@@ -36,6 +36,7 @@ export interface Question {
   keywords: string[]           // Level 1: 핵심 키워드 2-3개
   coreStatement: string        // Level 2: 핵심 문장 1-2문장
   questionText: string         // Level 3: 전체 문제
+  subItems?: string[]          // 보기(ㄱ·ㄴ·ㄷ…) 항목 — "모두 고른 것" 유형
   choices: string[]            // 객관식 보기 (보통 5지선다)
   answer: number               // 정답 번호 (1-5)
   choiceAnalysis?: string[]    // 각 선지별 분석 (선지 개수와 동일)

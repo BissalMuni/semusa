@@ -6,9 +6,10 @@ import json, re, yaml
 from pathlib import Path
 from collections import Counter, defaultdict
 
-QUESTIONS_DIR = Path("d:/Coding/semusa/web/data/questions")
+ROOT = Path(__file__).resolve().parents[2]
+QUESTIONS_DIR = ROOT / "web" / "data" / "questions"
 MAPPING_PATH = QUESTIONS_DIR / "_mapping.json"
-OUT_DIR = Path("d:/Coding/semusa/web/lib/data/jaejeonghak")
+OUT_DIR = ROOT / "web" / "lib" / "data" / "jaejeonghak"
 
 TAXONOMY = {
     "micro_basic":          ("1편", "소비자·생산자이론", "수요공급, 효용극대화, 비용함수, 규모의경제"),
@@ -190,6 +191,7 @@ def generate_questions_ts(questions: list) -> str:
         md_id = f"{year}-Q{num:02d}"
         qt = esc(q.get("questionText", ""))
         choices = json.dumps(q.get("choices", []), ensure_ascii=False)
+        sub_items = q.get("subItems")
         kw = json.dumps(q.get("keywords", []), ensure_ascii=False)
         core = esc(q.get("coreStatement", ""))
         basic = esc(q.get("basicExplanation", ""))
@@ -210,6 +212,8 @@ def generate_questions_ts(questions: list) -> str:
         lines.append(f"    keywords: {kw},")
         lines.append(f"    coreStatement: `{core}`,")
         lines.append(f"    questionText: `{qt}`,")
+        if sub_items:
+            lines.append(f"    subItems: {json.dumps(sub_items, ensure_ascii=False)},")
         lines.append(f"    choices: {choices},")
         lines.append(f"    answer: {q.get('answer', 1)},")
         lines.append(f"    basicExplanation: `{basic}`,")

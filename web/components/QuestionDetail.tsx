@@ -105,6 +105,13 @@ export function QuestionDetail({ question }: { question: Question }) {
               </div>
               <div className="bg-violet-50 rounded-xl border border-violet-100 p-4 space-y-3">
                 <p className="text-slate-800 font-medium leading-relaxed">{question.questionText}</p>
+                {question.subItems && question.subItems.length > 0 && (
+                  <ul className="mt-3 space-y-1 rounded-lg border border-violet-100 bg-white/60 px-4 py-3">
+                    {question.subItems.map((item, i) => (
+                      <li key={i} className="text-sm text-slate-700 leading-relaxed">{item}</li>
+                    ))}
+                  </ul>
+                )}
                 <ol className="space-y-1.5 mt-3">
                   {question.choices.map((choice, i) => (
                     <li
